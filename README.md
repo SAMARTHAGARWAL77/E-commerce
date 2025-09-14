@@ -2,6 +2,12 @@
 
 Welcome to Keystone!
 
+build
+
+```
+npx keystone build
+```
+
 Run
 
 ```
